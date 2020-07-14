@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[LinkedIn](https://www.linkedin.com/in/andr3reis/) / 
+[Instagram](https://www.instagram.com/andr3reis/) / 
+[deviantART](https://www.deviantart.com/evilfriend/)
+
+
 <!--
 **andre-reis/andre-reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
